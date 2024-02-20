@@ -1,4 +1,4 @@
-# COVID Deaths and Vaccinations Project
+# COVID Project
 
 ## About the Data
 The data for this project was COVID data from OurWorldInData, containing data from 2020-2024. I divided this data into two tables, Covid Deaths and Covid Vaccinations for this project.
